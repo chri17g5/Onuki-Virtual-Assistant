@@ -1,0 +1,325 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.13f1 (a03098edbbe0) revision 10498200'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19042.1237; Version 2009; 64bit' Language: 'da' Physical Memory: 16233 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/chri17g5/Desktop/Onuki-Virtual-Assistant/Onuki-Virtual-Assistant
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+55077
+Successfully changed project path to: C:/Users/chri17g5/Desktop/Onuki-Virtual-Assistant/Onuki-Virtual-Assistant
+C:/Users/chri17g5/Desktop/Onuki-Virtual-Assistant/Onuki-Virtual-Assistant
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 251.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.13f1 (a03098edbbe0)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/chri17g5/Desktop/Onuki-Virtual-Assistant/Onuki-Virtual-Assistant/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     4021 MB
+    Driver:   27.21.14.6231
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56820
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001957 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 148.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.224 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2224ms)
+		BeginReloadAssembly (73ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (757ms)
+			LoadAssemblies (69ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (260ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (390ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (149ms)
+				BeforeProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (173ms)
+				ProcessInitializeOnLoadMethodAttributes (54ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009989 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\chri17g5\Desktop\Onuki-Virtual-Assistant\Onuki-Virtual-Assistant\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\chri17g5\Desktop\Onuki-Virtual-Assistant\Onuki-Virtual-Assistant\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.097 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2097ms)
+		BeginReloadAssembly (220ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (1782ms)
+			LoadAssemblies (385ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (535ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (78ms)
+			SetupLoadedEditorAssemblies (637ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (525ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2944 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.7 MB.
+System memory in use after: 105.9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3386.
+Total: 3.007500 ms (FindLiveObjects: 0.256000 ms CreateObjectMapping: 0.275400 ms MarkObjects: 2.349900 ms  DeleteObjects: 0.123600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/SpeechToText_AppleAPI
+  artifactKey: Guid(970e849dfa5e6e246ab2932678299cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText_AppleAPI using Guid(970e849dfa5e6e246ab2932678299cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1e49cfe0ff510c82053fcacd4160c5') in 0.016737 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.224495 seconds.
+  path: Assets/SpeechToText_AppleAPI/Assembly-CSharp-Editor.csproj
+  artifactKey: Guid(40163ae7f932cd34b9adf616ace0afcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText_AppleAPI/Assembly-CSharp-Editor.csproj using Guid(40163ae7f932cd34b9adf616ace0afcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '127772780ec74bd922337ecc5f094b6d') in 0.056720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.526187 seconds.
+  path: Assets/SpeechToText_AppleAPI/ProjectSettings
+  artifactKey: Guid(3ee526045c510e14c9405a6e51bd22ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText_AppleAPI/ProjectSettings using Guid(3ee526045c510e14c9405a6e51bd22ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27fe082574e9011bc90499e156401d6c') in 0.013048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.930991 seconds.
+  path: Assets/SpeechToText_AppleAPI/obj
+  artifactKey: Guid(a7ee9aa9b9a8cfd4fb4c14cdb42052e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText_AppleAPI/obj using Guid(a7ee9aa9b9a8cfd4fb4c14cdb42052e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '312455efe129423b582b587969e5e885') in 0.013452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.410087 seconds.
+  path: Assets/SpeechToText_AppleAPI/Logs
+  artifactKey: Guid(941da8cd39a652d4faf6759f8b358667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText_AppleAPI/Logs using Guid(941da8cd39a652d4faf6759f8b358667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45bdcfbba13e74a015f0ad5af5bba4dc') in 0.013061 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.918724 seconds.
+  path: Assets/SpeechToText_AppleAPI/Build
+  artifactKey: Guid(b9b04bd29dfd61c498aaeeaf79f60830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText_AppleAPI/Build using Guid(b9b04bd29dfd61c498aaeeaf79f60830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb6ff0123ac7420999ed186b6f71d8c') in 0.011304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.343620 seconds.
+  path: Assets/SpeechToText_AppleAPI/Assets
+  artifactKey: Guid(0079ee2ba9574344f8769bcc4742ea80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText_AppleAPI/Assets using Guid(0079ee2ba9574344f8769bcc4742ea80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9acf7ede4f841b09119c2339399b8353') in 0.008886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.157090 seconds.
+  path: Assets/SpeechToText_AppleAPI/Assets/Plugins
+  artifactKey: Guid(d5694dc83bb30014394e722091259975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText_AppleAPI/Assets/Plugins using Guid(d5694dc83bb30014394e722091259975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de9129aa92ef8d5643f9594e06904027') in 0.011223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.734362 seconds.
+  path: Assets/SpeechToText_AppleAPI/Assets/Plugins/Android
+  artifactKey: Guid(b6fd70af607e01b41ae54870b8e56c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText_AppleAPI/Assets/Plugins/Android using Guid(b6fd70af607e01b41ae54870b8e56c91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e9cb60656798e4c8382b2a78324723') in 0.009922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 102.429267 seconds.
+  path: Assets/SpeechToText_AppleAPI/Assets/SpeechAndText
+  artifactKey: Guid(fac8efafa25fce941a2afb930eef7240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText_AppleAPI/Assets/SpeechAndText using Guid(fac8efafa25fce941a2afb930eef7240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8e7e9098fffc18168c026f9b57b5155') in 0.011074 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006924 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\chri17g5\Desktop\Onuki-Virtual-Assistant\Onuki-Virtual-Assistant\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\chri17g5\Desktop\Onuki-Virtual-Assistant\Onuki-Virtual-Assistant\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.291 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1291ms)
+		BeginReloadAssembly (145ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (1069ms)
+			LoadAssemblies (113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (416ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (365ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (272ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2946 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.8 MB.
+System memory in use after: 106.0 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3389.
+Total: 4.136700 ms (FindLiveObjects: 0.275000 ms CreateObjectMapping: 0.213100 ms MarkObjects: 3.525800 ms  DeleteObjects: 0.121600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 72.753420 seconds.
+  path: Assets/Text2Speach
+  artifactKey: Guid(68f91fcf239601743b1415d74af1a58c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Text2Speach using Guid(68f91fcf239601743b1415d74af1a58c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c471e04d3a5c61b49d760b28a17f1e31') in 0.013811 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.001393 seconds.
+  path: Assets/SpeechToText
+  artifactKey: Guid(68f91fcf239601743b1415d74af1a58c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText using Guid(68f91fcf239601743b1415d74af1a58c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ee9e73672bdb0774280452b2c2b14e') in 0.008699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.314509 seconds.
+  path: Assets/SpeechToText/SpeechAndText
+  artifactKey: Guid(b07dc6f114480ff44840ca5b08a642be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText/SpeechAndText using Guid(b07dc6f114480ff44840ca5b08a642be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f9e542338fb96774cf5576dd6bea3d') in 0.003789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.079072 seconds.
+  path: Assets/SpeechToText/Plugins
+  artifactKey: Guid(c20988b9248f253488f842371d034f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText/Plugins using Guid(c20988b9248f253488f842371d034f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0c1cc8249e8a0a81538a75dd5e0a7bd') in 0.005296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.696078 seconds.
+  path: Assets/SpeechToText/Plugins/iOS
+  artifactKey: Guid(f326e96e3694b43468bab97a198c3cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText/Plugins/iOS using Guid(f326e96e3694b43468bab97a198c3cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd21142c1cc3a8056c59ad4895e3edc8b') in 0.009259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.039457 seconds.
+  path: Assets/SpeechToText/Plugins/Android/SpeechToTextPlugin.jar
+  artifactKey: Guid(794bf5c3f66df554f95bfcf34c373792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText/Plugins/Android/SpeechToTextPlugin.jar using Guid(794bf5c3f66df554f95bfcf34c373792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f1cf2b12a798cc9f6c407d5e4e90691') in 0.029140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.498768 seconds.
+  path: Assets/SpeechToText/SpeechAndText/Enable Ofline Mode In Android.docx
+  artifactKey: Guid(8223e5b5f0a4940d9b3bab7f8115dafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText/SpeechAndText/Enable Ofline Mode In Android.docx using Guid(8223e5b5f0a4940d9b3bab7f8115dafb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17af4b025df54dd394d3451d50e212f') in 0.015045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.097658 seconds.
+  path: Assets/SpeechToText/SpeechAndText/Scripts
+  artifactKey: Guid(9949527f70bc32247920af2ef49b8c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText/SpeechAndText/Scripts using Guid(9949527f70bc32247920af2ef49b8c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deeda70a460cfa4a51f43eaede14ac0e') in 0.009354 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.911841 seconds.
+  path: Assets/SpeechToText/SpeechAndText/Scripts/SpeechToText.prefab
+  artifactKey: Guid(b2464bcbb9cb0e148844469d8bdd76dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText/SpeechAndText/Scripts/SpeechToText.prefab using Guid(b2464bcbb9cb0e148844469d8bdd76dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03969fb6476f1e7bb6ef9bc8e6f8f2c5') in 0.026273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/SpeechToText/SpeechAndText/Scripts/TextToSpeech.prefab
+  artifactKey: Guid(a592da1d5e8dba34f96c7ca9db6bc203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText/SpeechAndText/Scripts/TextToSpeech.prefab using Guid(a592da1d5e8dba34f96c7ca9db6bc203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62397f78e58cc2a62968952cb8614941') in 0.010868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.728516 seconds.
+  path: Assets/SpeechToText/SpeechAndText/Scripts/TextToSpeech.cs
+  artifactKey: Guid(2336039d6191a00468c61364bca2f584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText/SpeechAndText/Scripts/TextToSpeech.cs using Guid(2336039d6191a00468c61364bca2f584) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c6cd82a9f5f584ac05b0cada14cd931') in 0.006467 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.492509 seconds.
+  path: Assets/SpeechToText/SpeechAndText/Scripts/SpeechToText.cs
+  artifactKey: Guid(98436c2ede2113c4ca89fedee9149640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpeechToText/SpeechAndText/Scripts/SpeechToText.cs using Guid(98436c2ede2113c4ca89fedee9149640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54469a74962a4918d073a30d3dc40b96') in 0.004011 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
